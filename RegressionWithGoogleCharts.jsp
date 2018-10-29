@@ -1,4 +1,4 @@
-<!-- Input from https://developers.google.com/chart/interactive/docs/gallery/linechart -->
+<!-- Input from https://developers.google.com/chart/interactive/docs/gallery/combochart -->
 
 <html>
     <head>
