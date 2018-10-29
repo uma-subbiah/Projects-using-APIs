@@ -263,7 +263,7 @@
             }
         </script>
         <script async defer
-                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBroxMMROpQd4a78Kals_6MVceshdKHfEc&libraries=visualization&callback=initMap">
+                src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_GOES_HERE&libraries=visualization&callback=initMap">
         </script>
     </body>
 </html>
